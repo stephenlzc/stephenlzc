@@ -197,16 +197,16 @@ AI Search Enhancement and Cross-verification Tool — Making AI search more accu
 </td>
 <td width="50%">
 
-#### <a href="https://github.com/stephenlzc/cf-chatui">cf-chatui</a>
+#### <a href="https://github.com/stephenlzc/sci-introduction">sci-introduction</a>
 
-<img src="https://img.shields.io/github/stars/stephenlzc/cf-chatui?style=flat-square&color=f1c40f&logo=github" />
+<img src="https://img.shields.io/github/stars/stephenlzc/sci-introduction?style=flat-square&color=f1c40f&logo=github" />
 
-Multi-functional AI chat web interface based on Cloudflare Workers AI.
+A Claude Skill for writing publication-ready literature reviews with structured gap logic.
 
-`Cloudflare` `AI Chat` `Web`
+`Academic` `Claude Skill` `Literature Review`
 
-<a href="https://github.com/stephenlzc/cf-chatui">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stephenlzc&repo=cf-chatui&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/stephenlzc/sci-introduction">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stephenlzc&repo=sci-introduction&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </td>
@@ -220,7 +220,7 @@ Multi-functional AI chat web interface based on Cloudflare Workers AI.
 ### Star History
 
 <div align="center">
-  <img src="https://api.star-history.com/svg?repos=stephenlzc/AI-Powered-Literature-Review-Skills,stephenlzc/humanize-mba-text-skill,stephenlzc/aiseact,stephenlzc/cf-chatui&type=Date&theme=dark" alt="Star History" width="95%" />
+  <img src="https://api.star-history.com/svg?repos=stephenlzc/AI-Powered-Literature-Review-Skills,stephenlzc/humanize-mba-text-skill,stephenlzc/aiseact,stephenlzc/sci-introduction&type=Date&theme=dark" alt="Star History" width="95%" />
 </div>
 
 <br/>
