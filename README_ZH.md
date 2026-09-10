@@ -286,7 +286,7 @@ AI 搜索增强与交叉验证工具 —— 让 AI 搜索更准确，远离垃�
 ### Star 趋势
 
 <div align="center">
-  <img src="https://api.star-history.com/svg?repos=stephenlzc/AI-Powered-Literature-Review-Skills,stephenlzc/humanize-mba-text-skill,stephenlzc/bibtex-literature-review,stephenlzc/sci-introduction,stephenlzc/aiseact,stephenlzc/dsh-swarm-panel&type=Date&theme=dark" alt="Star History" width="95%" />
+  <img src="https://api.star-history.com/svg?repos=stephenlzc/AI-Powered-Literature-Review-Skills,stephenlzc/humanize-mba-text-skill,stephenlzc/aiseact,stephenlzc/sci-introduction&type=Date&theme=dark&v=2" alt="Star History" width="95%" />
 </div>
 
 <br/>

@@ -286,7 +286,7 @@ AI Search Enhancement and Cross-verification Tool — Making AI search more accu
 ### Star History
 
 <div align="center">
-  <img src="https://api.star-history.com/svg?repos=stephenlzc/AI-Powered-Literature-Review-Skills,stephenlzc/humanize-mba-text-skill,stephenlzc/bibtex-literature-review,stephenlzc/sci-introduction,stephenlzc/aiseact,stephenlzc/dsh-swarm-panel&type=Date&theme=dark" alt="Star History" width="95%" />
+  <img src="https://api.star-history.com/svg?repos=stephenlzc/AI-Powered-Literature-Review-Skills,stephenlzc/humanize-mba-text-skill,stephenlzc/aiseact,stephenlzc/sci-introduction&type=Date&theme=dark&v=2" alt="Star History" width="95%" />
 </div>
 
 <br/>
