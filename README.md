@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=BioTech+%7C+Business+Analysis+%7C+AI+Tools;NIPT+%7C+Methylation+%7C+Reproductive+Medicine;Turning+Experience+into+Replicable+Assets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=BioTech+%7C+Business+Analysis+%7C+AI+Tools;NIPT+%7C+Methylation+%7C+Reproductive+Medicine;Turning+Experience+into+Replicable+Assets;Skills+%7C+Agents+%7C+Open+Source" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -21,8 +21,8 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=stephenlzc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db&icon_color=2ecc71" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stephenlzc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fork.vercel.app/api?username=stephenlzc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db&icon_color=2ecc71" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fork.vercel.app/api/top-langs/?username=stephenlzc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
@@ -53,7 +53,7 @@
 
 - **BioTech Professional** — Specialized in Assisted Reproduction & Oncology Molecular Diagnostics
 - **MBA Student** — Researching NIPT Product Global Marketing Strategy
-- **AI Tools Creator** — Automating repetitive work
+- **AI Tools Creator** — Building Claude / DeepSeek Skills, Agent workflows, and reusable research tooling
 
 </td>
 <td width="40%">
@@ -94,6 +94,15 @@
   <img src="https://img.shields.io/badge/AHP-Analytic_Hierarchy-34495e?style=flat-square" />
 </p>
 
+### Agent / Skill Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/Claude_Skill-Authoring-e67e22?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek_Harness-Plugin_Dev-9b59b6?style=flat-square&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-Integrations-3498db?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Patterns-27ae60?style=flat-square" />
+  <img src="https://img.shields.io/badge/eBPF-Networking-e74c3c?style=flat-square&logo=linux&logoColor=white" />
+</p>
+
 ---
 
 ## ⭐ Recent Contributions
@@ -111,20 +120,33 @@
   <polygon points="50,5 61,40 98,40 68,62 79,97 50,75 21,97 32,62 2,40 39,40" fill="url(#starGrad)" />
 </svg>
 
-### <a href="https://github.com/freestylefly/wesight">WeSight</a>
+### <a href="https://github.com/kenzok8/openwrt-daede">kenzok8/openwrt-daede</a>
 
-<img src="https://img.shields.io/github/stars/freestylefly/wesight?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/forks/freestylefly/wesight?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
+<img src="https://img.shields.io/github/stars/kenzok8/openwrt-daede?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/forks/kenzok8/openwrt-daede?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
 
-**Open-source desktop AI Agent workspace — One-click setup for Claude Code / Codex / OpenClaw / Hermes Agent**
+**High-performance transparent proxy on OpenWrt — eBPF-driven `dae` core, custom LuCI panel, edge deployment hardening.**
 
-<p><sub>Desktop Console · Model Router · Visual Workflow · Runtime Metrics · IM Integration</sub></p>
+<p><sub>eBPF · dae / daed · LuCI · OpenWrt · Proxied Resource Cleanup · Branch Hygiene</sub></p>
 
-<p><sub>Contribution: Config Isolation Refactor (issues #31/#32/#33) · 3 commits</sub></p>
+<p><sub>Recent work: Config Isolation Refactor · install-resources cleanup · branch cleanup · PR #70 · multiple issue fixes</sub></p>
 
-<a href="https://github.com/freestylefly/wesight">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=freestylefly&repo=wesight&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/kenzok8/openwrt-daede">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=kenzok8&repo=openwrt-daede&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
+
+<br/><br/>
+
+### <a href="https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills">AI-Powered-Literature-Review-Skills</a>
+
+<img src="https://img.shields.io/github/stars/stephenlzc/AI-Powered-Literature-Review-Skills?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/forks/stephenlzc/AI-Powered-Literature-Review-Skills?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
+
+**AI-powered systematic literature survey tool — 8-phase workflow, Agent Swarm architecture, Claude/DeepSeek skill-ready.**
+
+<p><sub>Academic Research · Agent Swarm · Workflow Automation</sub></p>
+
+<p><sub>Recent work: 8-phase pipeline hardening, new bibtex skill integration, awesome-ai-research-tools curation</sub></p>
 
 </div>
 
@@ -159,7 +181,7 @@ AI-powered systematic literature survey tool with 8-phase workflow and Agent Swa
 `Academic` `Literature Review` `Automation`
 
 <a href="https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stephenlzc&repo=AI-Powered-Literature-Review-Skills&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=AI-Powered-Literature-Review-Skills&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </td>
@@ -174,7 +196,7 @@ AI writing pattern detection and removal tool for Chinese MBA theses.
 `AIGC Detection` `Thesis Rewrite` `MBA`
 
 <a href="https://github.com/stephenlzc/humanize-mba-text-skill">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stephenlzc&repo=humanize-mba-text-skill&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=humanize-mba-text-skill&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </td>
@@ -182,16 +204,16 @@ AI writing pattern detection and removal tool for Chinese MBA theses.
 <tr>
 <td width="50%">
 
-#### <a href="https://github.com/stephenlzc/aiseact">aiseact</a>
+#### <a href="https://github.com/stephenlzc/bibtex-literature-review">bibtex-literature-review</a>
 
-<img src="https://img.shields.io/github/stars/stephenlzc/aiseact?style=flat-square&color=f1c40f&logo=github" />
+<img src="https://img.shields.io/github/stars/stephenlzc/bibtex-literature-review?style=flat-square&color=f1c40f&logo=github" />
 
-AI Search Enhancement and Cross-verification Tool — Making AI search more accurate, away from garbage information.
+Generate Word literature reviews from BibTeX / RIS / CSL JSON with GB/T 7714, APA, IEEE, etc. — clickable REF citations.
 
-`Search Enhancement` `Info Verification` `CLI`
+`BibTeX` `Word` `GB/T 7714` `Skill`
 
-<a href="https://github.com/stephenlzc/aiseact">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stephenlzc&repo=aiseact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/stephenlzc/bibtex-literature-review">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=bibtex-literature-review&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </td>
@@ -206,7 +228,39 @@ A Claude Skill for writing publication-ready literature reviews with structured 
 `Academic` `Claude Skill` `Literature Review`
 
 <a href="https://github.com/stephenlzc/sci-introduction">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stephenlzc&repo=sci-introduction&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=sci-introduction&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### <a href="https://github.com/stephenlzc/dsh-swarm-panel">dsh-swarm-panel</a>
+
+<img src="https://img.shields.io/github/stars/stephenlzc/dsh-swarm-panel?style=flat-square&color=f1c40f&logo=github" />
+
+Conversation Flow observability and durable multi-agent orchestration panel for DeepSeek Harness.
+
+`DeepSeek Harness` `Multi-Agent` `Observability`
+
+<a href="https://github.com/stephenlzc/dsh-swarm-panel">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=dsh-swarm-panel&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</td>
+<td width="50%">
+
+#### <a href="https://github.com/stephenlzc/aiseact">aiseact</a>
+
+<img src="https://img.shields.io/github/stars/stephenlzc/aiseact?style=flat-square&color=f1c40f&logo=github" />
+
+AI Search Enhancement and Cross-verification Tool — Making AI search more accurate, away from garbage information.
+
+`Search Enhancement` `Info Verification` `CLI`
+
+<a href="https://github.com/stephenlzc/aiseact">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=aiseact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </td>
@@ -220,15 +274,15 @@ A Claude Skill for writing publication-ready literature reviews with structured 
 ### Star History
 
 <div align="center">
-  <img src="https://api.star-history.com/svg?repos=stephenlzc/AI-Powered-Literature-Review-Skills,stephenlzc/humanize-mba-text-skill,stephenlzc/aiseact,stephenlzc/sci-introduction&type=Date&theme=dark" alt="Star History" width="95%" />
+  <img src="https://api.star-history.com/svg?repos=stephenlzc/AI-Powered-Literature-Review-Skills,stephenlzc/humanize-mba-text-skill,stephenlzc/bibtex-literature-review,stephenlzc/sci-introduction,stephenlzc/aiseact,stephenlzc/dsh-swarm-panel&type=Date&theme=dark" alt="Star History" width="95%" />
 </div>
 
 <br/>
 
-### GitHub Activity Graph
+### Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stephenlzc&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3498db&line=2ecc71&point=f1c40f" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://ghchart.rshah.org/3498db/stephenlzc" alt="GitHub Contribution Graph" width="95%" />
 </div>
 
 ---
@@ -250,7 +304,8 @@ Problem-Oriented → Structured Deconstruction → Systematic Reconstruction
 |-----------|-------------|
 | **🔬 Professional Foundation** | Assisted Reproduction, Oncology Diagnostics, NIPT, Methylation, MRD, IVF Consulting |
 | **📊 Business Analysis** | Medical Value → Market Value Conversion, Clinical Awareness, Market Education, Channel Synergy |
-| **🤖 AI Leverage** | Prompt Engineering, Skill Development, Automated Workflows, Knowledge Base Construction |
+| **🤖 AI Leverage** | Claude / DeepSeek Skill Authoring, Agent Workflows, Prompt Engineering, Knowledge Base Construction |
+| **🛠️ Open Source** | Upstream PRs (openwrt-daede), ecosystem curation (awesome-* lists), reusable tooling |
 | **✍️ Content Productization** | Methodology Documentation, Templatization, Framework Design, PRD Writing |
 
 ---
@@ -275,6 +330,14 @@ Problem-Oriented → Structured Deconstruction → Systematic Reconstruction
       <sub>Experience → Method → Tool → System</sub>
       <br/>
       <sub><i>Making Methods Work Without Me</i></sub>
+    </td>
+    <td align="center">
+      🌐<br/>
+      <b>Edge Networking R&D</b>
+      <br/>
+      <sub>eBPF · dae / daed · OpenWrt</sub>
+      <br/>
+      <sub><i>Active contributor to kenzok8/openwrt-daede</i></sub>
     </td>
   </tr>
   </table>

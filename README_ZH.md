@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=生物医疗+%7C+商业分析+%7C+AI工具开发;NIPT+%7C+甲基化检测+%7C+辅助生殖;把经验沉淀成可复用的核心竞争力" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=生物医疗+%7C+商业分析+%7C+AI工具开发;NIPT+%7C+甲基化检测+%7C+辅助生殖;把经验沉淀成可复用的核心竞争力;Skills+%7C+Agents+%7C+开源共建" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -21,8 +21,8 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=stephenlzc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db&icon_color=2ecc71" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stephenlzc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fork.vercel.app/api?username=stephenlzc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db&icon_color=2ecc71" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fork.vercel.app/api/top-langs/?username=stephenlzc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
@@ -53,7 +53,7 @@
 
 - **生物医疗从业者** — 深耕辅助生殖与肿瘤分子诊断
 - **MBA在读学生** — 研究NIPT产品出海营销策略
-- **AI工具创作者** — 把重复工作自动化
+- **AI工具创作者** — 编写 Claude / DeepSeek Skill、构建 Agent 工作流、打造可复用的研究类工具
 
 </td>
 <td width="40%">
@@ -94,6 +94,15 @@
   <img src="https://img.shields.io/badge/AHP-层次分析法-34495e?style=flat-square" />
 </p>
 
+### Agent / Skill 生态
+<p>
+  <img src="https://img.shields.io/badge/Claude_Skill-开发-e67e22?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek_Harness-插件开发-9b59b6?style=flat-square&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-集成-3498db?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-模式-27ae60?style=flat-square" />
+  <img src="https://img.shields.io/badge/eBPF-网络-e74c3c?style=flat-square&logo=linux&logoColor=white" />
+</p>
+
 ---
 
 ## ⭐ 近期贡献
@@ -111,20 +120,33 @@
   <polygon points="50,5 61,40 98,40 68,62 79,97 50,75 21,97 32,62 2,40 39,40" fill="url(#starGrad)" />
 </svg>
 
-### <a href="https://github.com/freestylefly/wesight">WeSight</a>
+### <a href="https://github.com/kenzok8/openwrt-daede">kenzok8/openwrt-daede</a>
 
-<img src="https://img.shields.io/github/stars/freestylefly/wesight?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/forks/freestylefly/wesight?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
+<img src="https://img.shields.io/github/stars/kenzok8/openwrt-daede?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/forks/kenzok8/openwrt-daede?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
 
-**开源桌面 AI Agent 工作区 — 一键接入 Claude Code / Codex / OpenClaw / Hermes Agent**
+**OpenWrt 上的高性能透明代理 —— 基于 eBPF 的 `dae` 核心，自定义 LuCI 面板，专攻边缘部署稳定性。**
 
-<p><sub>桌面控制台 · 模型路由 · 可视化工作流 · 运行指标追踪 · IM 集成</sub></p>
+<p><sub>eBPF · dae / daed · LuCI · OpenWrt · 代理资源清理 · 分支治理</sub></p>
 
-<p><sub>贡献：配置隔离重构 (issues #31/#32/#33) · 3 commits</sub></p>
+<p><sub>近期工作：配置隔离重构 · install-resources 清理 · 分支整理 · PR #70 · 多个 issue 修复</sub></p>
 
-<a href="https://github.com/freestylefly/wesight">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=freestylefly&repo=wesight&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/kenzok8/openwrt-daede">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=kenzok8&repo=openwrt-daede&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
+
+<br/><br/>
+
+### <a href="https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills">AI-Powered-Literature-Review-Skills</a>
+
+<img src="https://img.shields.io/github/stars/stephenlzc/AI-Powered-Literature-Review-Skills?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/forks/stephenlzc/AI-Powered-Literature-Review-Skills?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
+
+**AI 驱动的系统性文献综述工具 —— 8 阶段工作流 + Agent Swarm 架构，兼容 Claude / DeepSeek Skill。**
+
+<p><sub>学术研究 · Agent Swarm · 工作流自动化</sub></p>
+
+<p><sub>近期工作：8 阶段流水线加固、整合 bibtex skill、维护 awesome-ai-research-tools 资源清单</sub></p>
 
 </div>
 
@@ -154,12 +176,12 @@
 
 <img src="https://img.shields.io/github/stars/stephenlzc/AI-Powered-Literature-Review-Skills?style=flat-square&color=f1c40f&logo=github" />
 
-AI驱动的系统性学术文献回顾工具，8阶段工作流 + Agent Swarm 架构。
+AI 驱动的系统性学术文献综述工具，8 阶段工作流 + Agent Swarm 架构。
 
 `学术` `文献综述` `自动化`
 
 <a href="https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stephenlzc&repo=AI-Powered-Literature-Review-Skills&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=AI-Powered-Literature-Review-Skills&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </td>
@@ -169,12 +191,12 @@ AI驱动的系统性学术文献回顾工具，8阶段工作流 + Agent Swarm �
 
 <img src="https://img.shields.io/github/stars/stephenlzc/humanize-mba-text-skill?style=flat-square&color=f1c40f&logo=github" />
 
-去除中文MBA论文AI写作痕迹的检测与改写工具。
+去除中文 MBA 论文 AI 写作痕迹的检测与改写工具。
 
 `AIGC检测` `论文改写` `MBA`
 
 <a href="https://github.com/stephenlzc/humanize-mba-text-skill">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stephenlzc&repo=humanize-mba-text-skill&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=humanize-mba-text-skill&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </td>
@@ -182,16 +204,16 @@ AI驱动的系统性学术文献回顾工具，8阶段工作流 + Agent Swarm �
 <tr>
 <td width="50%">
 
-#### <a href="https://github.com/stephenlzc/aiseact">aiseact</a>
+#### <a href="https://github.com/stephenlzc/bibtex-literature-review">bibtex-literature-review</a>
 
-<img src="https://img.shields.io/github/stars/stephenlzc/aiseact?style=flat-square&color=f1c40f&logo=github" />
+<img src="https://img.shields.io/github/stars/stephenlzc/bibtex-literature-review?style=flat-square&color=f1c40f&logo=github" />
 
-AI搜索增强与交叉验证工具 — 让AI搜索更准确，远离垃圾信息。
+从 BibTeX / RIS / CSL JSON 生成 Word 文献综述 —— 支持 GB/T 7714、APA、IEEE 等格式，可点击的 REF 引用。
 
-`搜索增强` `信息验证` `CLI`
+`BibTeX` `Word` `国标7714` `Skill`
 
-<a href="https://github.com/stephenlzc/aiseact">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stephenlzc&repo=aiseact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/stephenlzc/bibtex-literature-review">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=bibtex-literature-review&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </td>
@@ -201,12 +223,44 @@ AI搜索增强与交叉验证工具 — 让AI搜索更准确，远离垃圾信�
 
 <img src="https://img.shields.io/github/stars/stephenlzc/sci-introduction?style=flat-square&color=f1c40f&logo=github" />
 
-基于Claude的学术文献综述Skill，五步流程消除引用链，结构化差距逻辑。
+基于 Claude 的学术文献综述 Skill，结构化差距逻辑、可直接投稿。
 
 `学术` `Claude Skill` `文献综述`
 
 <a href="https://github.com/stephenlzc/sci-introduction">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stephenlzc&repo=sci-introduction&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=sci-introduction&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### <a href="https://github.com/stephenlzc/dsh-swarm-panel">dsh-swarm-panel</a>
+
+<img src="https://img.shields.io/github/stars/stephenlzc/dsh-swarm-panel?style=flat-square&color=f1c40f&logo=github" />
+
+DeepSeek Harness 上的会话流可观测与多 Agent 持久编排面板。
+
+`DeepSeek Harness` `多Agent` `可观测`
+
+<a href="https://github.com/stephenlzc/dsh-swarm-panel">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=dsh-swarm-panel&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</td>
+<td width="50%">
+
+#### <a href="https://github.com/stephenlzc/aiseact">aiseact</a>
+
+<img src="https://img.shields.io/github/stars/stephenlzc/aiseact?style=flat-square&color=f1c40f&logo=github" />
+
+AI 搜索增强与交叉验证工具 —— 让 AI 搜索更准确，远离垃圾信息。
+
+`搜索增强` `信息验证` `CLI`
+
+<a href="https://github.com/stephenlzc/aiseact">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=aiseact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 </td>
@@ -220,7 +274,7 @@ AI搜索增强与交叉验证工具 — 让AI搜索更准确，远离垃圾信�
 ### Star 趋势
 
 <div align="center">
-  <img src="https://api.star-history.com/svg?repos=stephenlzc/AI-Powered-Literature-Review-Skills,stephenlzc/humanize-mba-text-skill,stephenlzc/aiseact,stephenlzc/sci-introduction&type=Date&theme=dark" alt="Star History" width="95%" />
+  <img src="https://api.star-history.com/svg?repos=stephenlzc/AI-Powered-Literature-Review-Skills,stephenlzc/humanize-mba-text-skill,stephenlzc/bibtex-literature-review,stephenlzc/sci-introduction,stephenlzc/aiseact,stephenlzc/dsh-swarm-panel&type=Date&theme=dark" alt="Star History" width="95%" />
 </div>
 
 <br/>
@@ -228,7 +282,7 @@ AI搜索增强与交叉验证工具 — 让AI搜索更准确，远离垃圾信�
 ### GitHub 贡献图
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stephenlzc&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3498db&line=2ecc71&point=f1c40f" alt="GitHub Activity Graph" width="95%" />
+  <img src="https://ghchart.rshah.org/3498db/stephenlzc" alt="GitHub Contribution Graph" width="95%" />
 </div>
 
 ---
@@ -249,7 +303,8 @@ AI搜索增强与交叉验证工具 — 让AI搜索更准确，远离垃圾信�
 |------|------|
 | **🔬 专业根基** | 辅助生殖、肿瘤分子诊断、NIPT、甲基化检测、MRD、IVF咨询 |
 | **📊 商业分析** | 医学价值→市场价值的转化，临床认知建立、市场教育、渠道协同 |
-| **🤖 AI杠杆** | Prompt工程、Skill开发、自动化工作流、知识库搭建 |
+| **🤖 AI杠杆** | Claude / DeepSeek Skill 开发、Agent 工作流、Prompt 工程、知识库搭建 |
+| **🛠️ 开源共建** | 上游 PR（openwrt-daede）、生态资源整理（awesome-* 系列）、可复用工具沉淀 |
 | **✍️ 内容产品化** | 方法论沉淀、模板化、框架设计、PRD撰写 |
 
 ---
@@ -263,7 +318,7 @@ AI搜索增强与交叉验证工具 — 让AI搜索更准确，远离垃圾信�
       📚<br/>
       <b>第二导师计划</b>
       <br/>
-      <sub>MBA论文辅导与研究能力支持</sub>
+      <sub>MBA 论文辅导与研究能力支持</sub>
       <br/>
       <sub><i>只辅导，不代写</i></sub>
     </td>
@@ -274,6 +329,14 @@ AI搜索增强与交叉验证工具 — 让AI搜索更准确，远离垃圾信�
       <sub>经验→方法→工具→系统</sub>
       <br/>
       <sub><i>让方法脱离个人也能运转</i></sub>
+    </td>
+    <td align="center">
+      🌐<br/>
+      <b>边缘网络研发</b>
+      <br/>
+      <sub>eBPF · dae / daed · OpenWrt</sub>
+      <br/>
+      <sub><i>kenzok8/openwrt-daede 活跃贡献者</i></sub>
     </td>
   </tr>
   </table>
