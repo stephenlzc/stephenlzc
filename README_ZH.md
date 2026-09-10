@@ -120,33 +120,45 @@
   <polygon points="50,5 61,40 98,40 68,62 79,97 50,75 21,97 32,62 2,40 39,40" fill="url(#starGrad)" />
 </svg>
 
-### <a href="https://github.com/kenzok8/openwrt-daede">kenzok8/openwrt-daede</a>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/github/stars/kenzok8/openwrt-daede?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/forks/kenzok8/openwrt-daede?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
+### <a href="https://github.com/stephenlzc/vibe-usage">vibe-usage</a>
 
-**OpenWrt 上的高性能透明代理 —— 基于 eBPF 的 `dae` 核心，自定义 LuCI 面板，专攻边缘部署稳定性。**
+<img src="https://img.shields.io/github/stars/stephenlzc/vibe-usage?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
 
-<p><sub>eBPF · dae / daed · LuCI · OpenWrt · 代理资源清理 · 分支治理</sub></p>
+**追踪你的 AI 编程工具 token 用量并同步到 vibecafe.ai —— 一个 CLI，自动设备配对。**
 
-<p><sub>近期工作：配置隔离重构 · install-resources 清理 · 分支整理 · PR #70 · 多个 issue 修复</sub></p>
+<p><sub>Node CLI · Device-Flow 鉴权 · 后台守护 · 多工具自动识别</sub></p>
 
-<a href="https://github.com/kenzok8/openwrt-daede">
-  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=kenzok8&repo=openwrt-daede&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<p><sub>近期工作：2026-09 上线 · npx 友好初始化 · CI / 无头模式 · 多工具用量同步</sub></p>
+
+<a href="https://github.com/stephenlzc/vibe-usage">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=vibe-usage&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
-<br/><br/>
+</td>
+<td width="50%" align="center">
 
-### <a href="https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills">AI-Powered-Literature-Review-Skills</a>
+### <a href="https://github.com/freestylefly/wesight">WeSight</a>
 
-<img src="https://img.shields.io/github/stars/stephenlzc/AI-Powered-Literature-Review-Skills?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/forks/stephenlzc/AI-Powered-Literature-Review-Skills?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
+<img src="https://img.shields.io/github/stars/freestylefly/wesight?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/forks/freestylefly/wesight?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
 
-**AI 驱动的系统性文献综述工具 —— 8 阶段工作流 + Agent Swarm 架构，兼容 Claude / DeepSeek Skill。**
+**开源桌面 AI Agent 工作区 —— 一键接入 Claude Code / Codex / OpenClaw / Hermes Agent。**
 
-<p><sub>学术研究 · Agent Swarm · 工作流自动化</sub></p>
+<p><sub>桌面控制台 · 模型路由 · 可视化工作流 · 运行指标 · IM 集成</sub></p>
 
-<p><sub>近期工作：8 阶段流水线加固、整合 bibtex skill、维护 awesome-ai-research-tools 资源清单</sub></p>
+<p><sub>我的贡献：<b>已合并 PR #26</b> · 3 commits · Cowork shell PATH 探测与用户配置隔离</sub></p>
+
+<a href="https://github.com/freestylefly/wesight">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=freestylefly&repo=wesight&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -304,7 +316,7 @@ AI 搜索增强与交叉验证工具 —— 让 AI 搜索更准确，远离垃�
 | **🔬 专业根基** | 辅助生殖、肿瘤分子诊断、NIPT、甲基化检测、MRD、IVF咨询 |
 | **📊 商业分析** | 医学价值→市场价值的转化，临床认知建立、市场教育、渠道协同 |
 | **🤖 AI杠杆** | Claude / DeepSeek Skill 开发、Agent 工作流、Prompt 工程、知识库搭建 |
-| **🛠️ 开源共建** | 上游 PR（openwrt-daede）、生态资源整理（awesome-* 系列）、可复用工具沉淀 |
+| **🛠️ 开源共建** | 生态资源整理（awesome-* 系列）、以 Skill / CLI 形式沉淀的可复用工具 |
 | **✍️ 内容产品化** | 方法论沉淀、模板化、框架设计、PRD撰写 |
 
 ---
@@ -329,14 +341,6 @@ AI 搜索增强与交叉验证工具 —— 让 AI 搜索更准确，远离垃�
       <sub>经验→方法→工具→系统</sub>
       <br/>
       <sub><i>让方法脱离个人也能运转</i></sub>
-    </td>
-    <td align="center">
-      🌐<br/>
-      <b>边缘网络研发</b>
-      <br/>
-      <sub>eBPF · dae / daed · OpenWrt</sub>
-      <br/>
-      <sub><i>kenzok8/openwrt-daede 活跃贡献者</i></sub>
     </td>
   </tr>
   </table>

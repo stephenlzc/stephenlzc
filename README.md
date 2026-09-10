@@ -120,33 +120,45 @@
   <polygon points="50,5 61,40 98,40 68,62 79,97 50,75 21,97 32,62 2,40 39,40" fill="url(#starGrad)" />
 </svg>
 
-### <a href="https://github.com/kenzok8/openwrt-daede">kenzok8/openwrt-daede</a>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/github/stars/kenzok8/openwrt-daede?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/forks/kenzok8/openwrt-daede?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
+### <a href="https://github.com/stephenlzc/vibe-usage">vibe-usage</a>
 
-**High-performance transparent proxy on OpenWrt — eBPF-driven `dae` core, custom LuCI panel, edge deployment hardening.**
+<img src="https://img.shields.io/github/stars/stephenlzc/vibe-usage?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
 
-<p><sub>eBPF · dae / daed · LuCI · OpenWrt · Proxied Resource Cleanup · Branch Hygiene</sub></p>
+**Track your AI coding tool token usage and sync to vibecafe.ai — one CLI, automatic device pairing.**
 
-<p><sub>Recent work: Config Isolation Refactor · install-resources cleanup · branch cleanup · PR #70 · multiple issue fixes</sub></p>
+<p><sub>Node CLI · Device-Flow Auth · Background Daemon · Multi-tool Detection</sub></p>
 
-<a href="https://github.com/kenzok8/openwrt-daede">
-  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=kenzok8&repo=openwrt-daede&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<p><sub>Recent work: launched 2026-09 · npx-friendly init · CI / headless mode · multi-tool usage sync</sub></p>
+
+<a href="https://github.com/stephenlzc/vibe-usage">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=stephenlzc&repo=vibe-usage&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
-<br/><br/>
+</td>
+<td width="50%" align="center">
 
-### <a href="https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills">AI-Powered-Literature-Review-Skills</a>
+### <a href="https://github.com/freestylefly/wesight">WeSight</a>
 
-<img src="https://img.shields.io/github/stars/stephenlzc/AI-Powered-Literature-Review-Skills?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/forks/stephenlzc/AI-Powered-Literature-Review-Skills?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
+<img src="https://img.shields.io/github/stars/freestylefly/wesight?style=for-the-badge&color=f1c40f&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/forks/freestylefly/wesight?style=for-the-badge&color=3498db&logo=git&logoColor=white" />
 
-**AI-powered systematic literature survey tool — 8-phase workflow, Agent Swarm architecture, Claude/DeepSeek skill-ready.**
+**Open-source desktop AI agent workspace — one-click setup for Claude Code / Codex / OpenClaw / Hermes Agent.**
 
-<p><sub>Academic Research · Agent Swarm · Workflow Automation</sub></p>
+<p><sub>Desktop Console · Model Router · Visual Workflow · Runtime Metrics · IM Integration</sub></p>
 
-<p><sub>Recent work: 8-phase pipeline hardening, new bibtex skill integration, awesome-ai-research-tools curation</sub></p>
+<p><sub>My contribution: <b>merged PR #26</b> · 3 commits · Cowork shell PATH probing & user-config isolation</sub></p>
+
+<a href="https://github.com/freestylefly/wesight">
+  <img src="https://github-readme-stats-fork.vercel.app/api/pin/?username=freestylefly&repo=wesight&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -305,7 +317,7 @@ Problem-Oriented → Structured Deconstruction → Systematic Reconstruction
 | **🔬 Professional Foundation** | Assisted Reproduction, Oncology Diagnostics, NIPT, Methylation, MRD, IVF Consulting |
 | **📊 Business Analysis** | Medical Value → Market Value Conversion, Clinical Awareness, Market Education, Channel Synergy |
 | **🤖 AI Leverage** | Claude / DeepSeek Skill Authoring, Agent Workflows, Prompt Engineering, Knowledge Base Construction |
-| **🛠️ Open Source** | Upstream PRs (openwrt-daede), ecosystem curation (awesome-* lists), reusable tooling |
+| **🛠️ Open Source** | Ecosystem curation (awesome-* lists), reusable tooling shipped as Skills / CLI |
 | **✍️ Content Productization** | Methodology Documentation, Templatization, Framework Design, PRD Writing |
 
 ---
@@ -330,14 +342,6 @@ Problem-Oriented → Structured Deconstruction → Systematic Reconstruction
       <sub>Experience → Method → Tool → System</sub>
       <br/>
       <sub><i>Making Methods Work Without Me</i></sub>
-    </td>
-    <td align="center">
-      🌐<br/>
-      <b>Edge Networking R&D</b>
-      <br/>
-      <sub>eBPF · dae / daed · OpenWrt</sub>
-      <br/>
-      <sub><i>Active contributor to kenzok8/openwrt-daede</i></sub>
     </td>
   </tr>
   </table>
